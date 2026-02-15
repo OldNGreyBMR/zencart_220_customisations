@@ -1,0 +1,14 @@
+/*
+* file stylesheet_xbanner.css
+*  BMH 2025-11-09 override add background color to banner in admin
+
+ zc220 vanilla Indigo
+ zc220 dev Purple
+ zc210 test BlueViolet
+ zc210 pre-prod darkviolet
+ */
+.headerBar {background-color: purple; color:black;}
+.headerLink {color:black; }
+a.headerLink:visited {color:black;}
+a.headerLink:link {color:gray;}
+#login {background-color: purple;

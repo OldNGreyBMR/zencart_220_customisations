@@ -1,0 +1,33 @@
+/*
+* file stylesheet_xbanner.css
+*  BMH 2025-11-09 override add background color to banner in admin
+
+ zc220 vanilla Indigo
+ zc220 dev Purple
+ zc220 test BlueViolet
+ zc220 pre-prod mediumpurple
+ 
+ zc220 exp pink
+ */
+
+#login {background-color: pink;}
+.navbar-inverse .navbar-collapse , .navbar-inverse.top-tier , .navbar-inverse.top-tier .navbar-brand, .navbar-inverse.top-tier .navbar-nav > li > a 
+    {background-color: pink; color:black;}
+
+    /*.headerBar {background-color: pink; color:black;}
+.headerLink {color:black; }
+a.headerLink:visited {color:black;}
+a.headerLink:link {color:gray;}
+*/
+
+/*.navbar-toggle  {background-color: pink; color:black;}
+*/
+/*.navbar-inverse {background-color: pink; color:black;}
+*/
+/*.navbar-inverse.top-tier {background-color: pink; color:black;}
+*/
+
+/*.navbar-inverse.top-tier .navbar-nav > li > a {
+    color:black;}
+*/
+    
